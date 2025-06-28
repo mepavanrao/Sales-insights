@@ -1,7 +1,9 @@
 1.	**Sales Analytics**: _Sales Insights Dashboard_
 A dynamic, interactive data visualization tool built to analyze data to track revenue growth of a computer hardwarev business facing challenges to scale in a dynamically changing market and lack actionable insights.
 
+
 2.	The Sales Insight Dashboard is a visually engaging and analytical Power BI report designed to help users explore and analyze data to track revenue growth, YOY trends, and region-wise sales performance.
+
 
 3.	**Tech Stack**
 The dashboard was built using the following tools and technologies:
@@ -18,7 +20,9 @@ The dashboard was built using the following tools and technologies:
 
 •**MySQL** – I used sequel to analyze the data.
 
+
 5.	**Data Source**: https://codebasics.io/ 
+
 
 6.	**Features / Highlights**
 The best dashboard explanation format. 
@@ -43,8 +47,10 @@ revenue trend over the year shown by a chart.
 Top 5 customers.
 Top 5 products sold.
 
-•	**Business impact & Insights**
+
+7.	**Business impact & Insights**
 The dashboard provided actionable insights that would lead to potential revenue increase of 7% in the next quarter.
 
-• **Dashboard preview**: https://github.com/mepavanrao/Sales-insights/blob/main/SI%20Dashboard%20snapshot.png
+
+6. **Dashboard preview**: https://github.com/mepavanrao/Sales-insights/blob/main/SI%20Dashboard%20snapshot.png
 
