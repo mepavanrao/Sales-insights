@@ -41,5 +41,5 @@ Top 5 products sold.
 •	Business impact & Insights
 The dashboard provided actionable insights that would lead to potential revenue increase of 7% in the next quarter.
 
-• Dashboard preview: 
+• Dashboard preview: https://github.com/mepavanrao/Sales-insights/blob/main/SI%20Dashboard%20snapshot.png
 
